@@ -1,6 +1,7 @@
-# MaskDetector
-Descripción de uso
+# Descripción de uso
+
 En un mismo directorio se deben ubicar los siguientes archivos:
+
 1.	“Reconocimiento de cubreboca - fotos.py”.
 2.	“Reconocimiento de cubreboca - video.py”.
 3.	“modeloMLP.sav”.
