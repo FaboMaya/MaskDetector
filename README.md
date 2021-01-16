@@ -20,6 +20,7 @@ https://drive.google.com/file/d/1rh_h7dQ-J6p-XUVoPcVgjjxQd9ylK0Wp/view?usp=shari
 13.	“vt4.mp4”. 
 https://drive.google.com/file/d/1RyWWtJia5R347M8HkV275gzOUM5nr54a/view?usp=sharing
 
+
 Imágenes
 1.	Correr el archivo “Reconocimiento de cubreboca - fotos.py”. 
 2.	Se desplegarán 1 ventana de Python y 1 ventana de OpenCV.
@@ -27,6 +28,7 @@ Imágenes
 4.	Para terminar el programar hay que cerrar la ventana de Python con el botón de “Cerrar”.
 Se puede probar usar otra foto al cambiar el valor de la variable “numeroArchivo”, ubicada en la línea 8 del código del programa, por cualquier número entre 0 y 19.
 Se puede cambiar el clasificador en cascada al cambiar el valor de la variable “cascada”, ubicada en la línea 12 del código del programa, por cualquier número entre 1 y 5. 1 corresponde a un clasificador de 10 etapas, 2 a un clasificador de 20 etapas, 3 a uno de 30, 4 a 40 y 5 a uno de 50 etapas.
+
 
 Videos
 1.	Correr el archivo “Reconocimiento de cubreboca - video.py”. 
